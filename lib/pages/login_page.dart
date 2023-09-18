@@ -5,7 +5,7 @@ import 'package:firebase_authentication_email/components/my_textfield.dart';
 import 'package:firebase_authentication_email/components/square_tile.dart';
 
 class LoginPage extends StatelessWidget {
-  LoginPage({super.key});
+  // LoginPage({super.key});
 
   // text editing controllers
   final usernameController = TextEditingController();
